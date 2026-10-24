@@ -33,6 +33,8 @@ while True:
 
     elif "vitamin" in user:
         print("NutriBot: Fruits and vegetables provide many important vitamins.")
-
+    elif "breakfast" in user:
+    print("NutriBot: Eat a healthy breakfast like oats, eggs, fruits, or idli to start your day!")
     else:
         print("NutriBot: Sorry, I don't know that yet. Ask me about healthy food!")
+        
